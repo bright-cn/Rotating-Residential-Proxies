@@ -69,7 +69,7 @@ import org.apache.http.client.fluent.*;
 
 public class Example {
     public static void main(String[] args) throws Exception {
-        // Replace '[your customerID]' and '[your password]' with your actual credentials
+        // 将 '[your customerID]' 和 '[your password]' 替换为您的实际凭据
         HttpHost proxy = new HttpHost("brd.superproxy.io", 33335);
         String res = Executor.newInstance()
             .auth(proxy, "brd-customer-[your customerID]-zone-residential", "[your password]")
@@ -90,7 +90,7 @@ class Example
 {
     static void Main()
     {
-        // Replace '[your customerID]' and '[your password]' with your actual credentials
+        // 将 '[your customerID]' 和 '[your password]' 替换为您的实际凭据
         var client = new WebClient();
         client.Proxy = new WebProxy("brd.superproxy.io:33335");
         client.Proxy.Credentials = new NetworkCredential("brd-customer-[your customerID]-zone-residential", "[your password]");
@@ -113,7 +113,7 @@ require('request-promise')({
 ### Shell
 
 ```shell
-# Replace '[your customerID]' and '[your password]' with your actual credentials
+# 将 '[your customerID]' 和 '[your password]' 替换为您的实际凭据
 curl --proxy brd.superproxy.io:33335 --proxy-user brd-customer-[your customerID]-zone-residential:[your password] -k "https://geo.brdtest.com/mygeo.json"
 ```
 
