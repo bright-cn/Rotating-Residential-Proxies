@@ -1,6 +1,6 @@
 # Bright Data 住宅代理
 
-[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://bright.cn/proxy-types/residential-proxies?promo=github15) 
+[![Promo](https://github.com/bright-cn/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo%20(1).png)](https://bright.cn/proxy-types/residential-proxies) 
 
 ## 概述
 体验 Bright Data 的[行业领先的住宅代理](https://bright.cn/proxy-types/residential-proxies)，提供精准的定位、卓越的稳定性和快速响应时间。
